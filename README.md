@@ -33,8 +33,8 @@ So Sir Morphalot combines both polymorphic and metamorphic properties. The conti
 By combining this techniques, the program achieves a high level of resistance to both static and dynamic AV analysis, as both the binary structure and the behavior of the program vary with each execution.
 
 ## How to built:
-- First, you need to download the project and open it with Visual Studio (VS).
-- Then, you build the executable (Ctrl + B) in debug mode.
-- Finally, you run the runAppender.bat in the Debug folder, where your built EXE is located, to encrypt the C# code of the project and attach it to the built program.
+- Download the project and open it with Visual Studio (VS).
+- Build the executable (Ctrl + B) in debug mode.
+- Run the runAppender.bat in the Debug folder, where your built EXE is located, to encrypt the C# code of the project and attach it to the built program.
 
 Now the program is ready to go and you can monitor the code modifications e.g. in dnSpy.
