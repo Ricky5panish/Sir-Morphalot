@@ -19,7 +19,7 @@ Specific legitimate functions are randomly replaced with alternative implementat
 The encryption key embedded in the code is updated with a randomly generated key. This key update is a crucial part of the code manipulation and ensures that the next version of the program can correctly decrypt its overlay.
 
 ### Recompilation:
-After modification and key update, the next version of the program is created by recompiling the modified source code with the Windows-provided C# compiler csc.exe (that's the main reason why I chose C#).
+After modification and key update, the next version of the program is created by recompiling the modified source code with the Windows-provided C# compiler csc.exe (the main reason why I chose C#).
 
 ### Encryption and overlay attachment:
 The modified source code is then encrypted with the new key and attached as an overlay to the new executable file, so that the new version also has a correctly encrypted overlay to run properly later.
