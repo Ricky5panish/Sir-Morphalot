@@ -28,7 +28,7 @@ The modified source code is then encrypted with the new key and attached as an o
 After successful creation and modification of the new version of the program, the old version deletes itself using cmd.exe.
 
 ## Summarized
-So Sir Morphalot combines both polymorphic and metamorphic properties. The continuous recompilation and encryption of the source code with an updated key ensure that each version of the program is unique. And the dynamic changes to the source code for each version affect its behavior in subsequent executions. This results in a wide variety of different program variants.
+So Sir Morphalot combines both polymorphic and metamorphic properties. The continuous recompilation and encryption of the source code with an updated key ensure that each version of the program is unique. And the dynamic changes to the source code for each version affect its behavior in the next execution. This results in a wide variety of different program variants.
 
 By combining this techniques, the program achieves a high level of resistance to both static and dynamic AV analysis, as both the binary structure and the behavior of the program vary with each execution.
 
