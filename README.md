@@ -1,5 +1,4 @@
 # Sir-Morphalot
-Proof of Concept for demonstrating polymorph and metamorph malware capabilities in C#
 
 Because polymorphism and metamorphism are a very exciting and interesting topic in the context of malware, I would like to introduce my PoC Sir Morphalot, which serves as a demonstration of advanced malware techniques. The goal of the program is to bypass signature-based and behavior-based detection methods using polymorphic and partially metamorphic techniques, as it also continuously change its behavior.
 
