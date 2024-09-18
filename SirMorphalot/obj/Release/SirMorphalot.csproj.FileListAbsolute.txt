@@ -1,7 +1,0 @@
-C:\Users\ybieber\Documents\SirMorphalot\SirMorphalot\bin\Release\SirMorphalot.exe.config
-C:\Users\ybieber\Documents\SirMorphalot\SirMorphalot\bin\Release\SirMorphalot.exe
-C:\Users\ybieber\Documents\SirMorphalot\SirMorphalot\bin\Release\SirMorphalot.pdb
-C:\Users\ybieber\Documents\SirMorphalot\SirMorphalot\obj\Release\SirMorphalot.csproj.AssemblyReference.cache
-C:\Users\ybieber\Documents\SirMorphalot\SirMorphalot\obj\Release\SirMorphalot.csproj.CoreCompileInputs.cache
-C:\Users\ybieber\Documents\SirMorphalot\SirMorphalot\obj\Release\SirMorphalot.exe
-C:\Users\ybieber\Documents\SirMorphalot\SirMorphalot\obj\Release\SirMorphalot.pdb
